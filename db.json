@@ -239,6 +239,30 @@
                 }
             ],
             "category": "main course"
+        },
+         {
+            "id": 11,
+            "name": "burrito",
+            "info": "Fill a nutritious wholemeal wrap with lots of healthy breakfast ingredients to make this veggie burrito. We’ve included protein-rich eggs and avocado to add good fats",
+            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/breakfast-burrito-b086548.jpg",
+            "duration": [
+                {
+                    "hours": null,
+                    "minutes": 15
+                }
+            ],
+            "difficulty": "easy",
+            "serves": 1,
+            "nutrition": [
+                {
+                    "calories": 366,
+                    "vegan": false,
+                    "vegetable": true,
+                    "healthly": true,
+                    "gluten": false
+                }
+            ],
+            "category": "breakfast"
         }
           ]
 }
